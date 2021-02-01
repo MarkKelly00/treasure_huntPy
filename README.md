@@ -2,6 +2,7 @@
 ![License: Mark Kelly](https://img.shields.io/badge/License-Mark_Kelly-brightgreen.svg)
 
 ### Find the Treasure
+<!-- language: lang-none -->
 ,--------.                                                ,--.     ,--.                ,--. 
 '--.  .--,--.--.,---. ,--,--.,---.,--.,--,--.--.,---.     |  |,---.|  |,--,--,--,--, ,-|  | 
    |  |  |  .--| .-. ' ,-.  (  .-'|  ||  |  .--| .-. :    |  (  .-'|  ' ,-.  |      ' .-. | 
